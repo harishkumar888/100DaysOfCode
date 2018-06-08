@@ -17,3 +17,11 @@ Watched C++ course from Kate Gregory on pluralsight
 Fixed 100DaysOfCode code.
 
 6. June 5, 2018
+Watched the memoru management module of the pluralsight c++ course.
+
+7. June 6, 2018
+
+8. June 7, 2018
+Solved leetcode 846.
+
+9. June 8, 2018
