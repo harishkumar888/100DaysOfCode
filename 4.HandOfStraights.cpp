@@ -21,9 +21,10 @@ Explanation: Alice's hand can't be rearranged into groups of 4.
 
 */
 
-#include <vector>
-#include<iostream>
+#include <algorithm>
+#include <iostream>
 #include <map>
+#include <vector>
 
 using namespace std;
 
@@ -39,9 +40,27 @@ bool isNStraightHand(vector<int>& hand, int W) {
     return true;
 }
 
+bool isNStraightHand_alternate(vector<int>& hand, int W) {
+    int n = hand.size();
+    sort(hand.begin(), hand.end());
+
+    for(vector<int> next; !hand.empty() && hand.size()%W == 0; hand.swap(next), next={}){
+        for(int i=1,k=1; k<W; ++k){
+            if(k<W && hand[i] == hand[0]+k){
+                k++;
+            }
+            else{
+                next.push_back(hand[i]);
+            }
+        }
+    }
+    return hand.empty();
+}
+
 int main(){
     vector<int> hand = {1,2,3,6,2,3,4,7,8};
     int W = 3;
-    isNStraightHand(hand, W);
+    cout << boolalpha << isNStraightHand_alternate(hand, W);
+    // cout << boolalpha << isNStraightHand(hand, W);
     return 0;
 }
