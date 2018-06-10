@@ -27,5 +27,8 @@ Solved leetcode 846.
 9. June 8, 2018
 Alternative implementation for 846
 
-10. June9, 2018
+10. June 9, 2018
+Solved 2 questions from today's leetcode contest.
+
+11. June 10, 2018
 

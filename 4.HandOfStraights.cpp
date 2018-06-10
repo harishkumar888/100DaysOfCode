@@ -6,8 +6,6 @@ Now she wants to rearrange the cards into groups so that each group is size W, a
 
 Return true if and only if she can.
 
- 
-
 Example 1:
 
 Input: hand = [1,2,3,6,2,3,4,7,8], W = 3
@@ -18,7 +16,6 @@ Example 2:
 Input: hand = [1,2,3,4,5], W = 4
 Output: false
 Explanation: Alice's hand can't be rearranged into groups of 4.
-
 */
 
 #include <algorithm>
