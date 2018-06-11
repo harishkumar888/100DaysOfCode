@@ -43,7 +43,7 @@ string shiftingLetters_naive(string S, vector<int>& shifts) {
         shifts[i] = shifts[i]%26;
         for(int j=0; j<i+1; ++j){
             if(S[j]+shifts[i] > 122)
-                S[j] = S[j]+shifts[i]-26;
+                S[j] += shifts[i]-26;
             else
                 S[j] += shifts[i];
         }
