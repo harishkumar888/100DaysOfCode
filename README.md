@@ -31,4 +31,18 @@ Alternative implementation for 846
 Solved 2 questions from today's leetcode contest.
 
 11. June 10, 2018
+Tried to solve leetcode 851. Loud and rich problem
+
+12. June 11, 2018
+Read about and practice c++ exceptions. Solved a problem on hackerrank related to exceptions.
+
+13. June 12, 2018
+Reverse Integer problem
+
+14. June 13, 2018
+Longest Palindromic substring
+
+15. June 14, 2018
+
+
 
