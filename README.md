@@ -43,6 +43,31 @@ Reverse Integer problem
 Longest Palindromic substring
 
 15. June 14, 2018
+Solved hacker rank problems. Got stuck on of them, finished it in the next few days.
+
+16. June 15, 2018
+
+17. June 16, 2018
+
+18. June 17, 2018
+Took part in coding challenges on sololearn app.
+
+19. June 18, 2018
+Tried to solve a HackerRank problem regarding regex. Read up about c++ regex.
+
+20. June 19, 2018
+Solved leetcode 811.
+
+21. June 20, 2018
+Solved Operator overloading problem in HackerRank.
+
+21. June 21, 2018
+Leetcode Longest common prefix.
+
+22. June 22, 2018
+
+23. June 23, 2018
+
 
 
 
