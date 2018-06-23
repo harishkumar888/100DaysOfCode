@@ -62,9 +62,10 @@ Solved leetcode 811.
 Solved Operator overloading problem in HackerRank.
 
 21. June 21, 2018
-Leetcode Longest common prefix.
+Leetcode Longest common prefix. Peak index in a mountain array.
 
 22. June 22, 2018
+Leetcode Compare two trees.
 
 23. June 23, 2018
 
