@@ -74,6 +74,7 @@ Leetcode Maximum Subarray.
 Leetcode Buddy strings.
 
 25. June 25, 2018
+Leetcode remove duplicates from linked list. Pluralsight course on C++ STL algorithms.
 
 26. June 26, 2018
 
