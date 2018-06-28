@@ -77,6 +77,19 @@ Leetcode Buddy strings.
 Leetcode remove duplicates from linked list. Pluralsight course on C++ STL algorithms.
 
 26. June 26, 2018
+Incomplete Leetcode Binary tree paths.
+
+27. June 27, 2018
+Completed Binary tree paths. 
+
+28. June 28, 2018
+
+29. June 29, 2018
+
+30. June 30, 2018
+
+31. July 1, 2018
+
 
 
 
