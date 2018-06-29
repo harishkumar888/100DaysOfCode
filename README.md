@@ -80,9 +80,10 @@ Leetcode remove duplicates from linked list. Pluralsight course on C++ STL algor
 Incomplete Leetcode Binary tree paths.
 
 27. June 27, 2018
-Completed Binary tree paths. 
+Completed Binary tree paths. Pluralsight C++ STL algorithms.
 
 28. June 28, 2018
+Completed Binary tree pruning leetcode problem.
 
 29. June 29, 2018
 
