@@ -11,7 +11,6 @@ Worked on a couple of problems from the weekend contest.
 4. June 3, 2018
 Tried to finish the problems from the contest.
 
-
 5. June 4, 2018
 Watched C++ course from Kate Gregory on pluralsight
 Fixed 100DaysOfCode code.
@@ -20,6 +19,7 @@ Fixed 100DaysOfCode code.
 Watched the memory management module of the pluralsight c++ course.
 
 7. June 6, 2018
+
 
 8. June 7, 2018
 Solved leetcode 846.
@@ -86,10 +86,31 @@ Completed Binary tree paths. Pluralsight C++ STL algorithms.
 Completed Binary tree pruning leetcode problem.
 
 29. June 29, 2018
+Completed Jewel and stones leercode problem.
 
 30. June 30, 2018
 
 31. July 1, 2018
+
+32. July 2, 2018
+
+33. July 3, 2018
+
+34. July 4, 2018
+
+35. July 5, 2018
+
+36. July 6, 2018
+
+37. July 7, 2018
+
+38. July 8, 2018
+
+39. July 9, 2018
+
+40. July 10, 2018
+
+41. July 11, 2018
 
 
 
