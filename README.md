@@ -86,11 +86,13 @@ Completed Binary tree paths. Pluralsight C++ STL algorithms.
 Completed Binary tree pruning leetcode problem.
 
 29. June 29, 2018
-Completed Jewel and stones leercode problem.
+Completed 18.JewelAndStones, 19.SearchInsert leetcode problem. 
 
 30. June 30, 2018
+Completed 20.SubArrayProductLessThanK and 21.LemonaceChange.
 
 31. July 1, 2018
+Completed 22.AllNodesDistanceKBinaryTree
 
 32. July 2, 2018
 
