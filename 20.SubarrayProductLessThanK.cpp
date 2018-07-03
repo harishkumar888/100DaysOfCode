@@ -53,13 +53,22 @@ int numSubarrayProductLessThanK_naive(vector<int>& nums, int k) {
 }
 
 int numSubarrayProductLessThanK(vector<int>& nums, int k){
+    int prod=1, ans=0, i=0, left_index=0;
+    for(i=0; i<nums.size(); ++i){
+        prod *= nums[i];
 
-
+        while(prod>=k && left_index<=i){
+            prod /= nums[left_index++];
+        }
+        ans += (i-left_index+1);
+        cout << prod << endl;
+    }
+    return ans;
 }
 
 int main(){
     vector<int> nums = {10,5,2,6};
     int k = 100;
-    numSubarrayProductLessThanK(nums, k);
+    cout << numSubarrayProductLessThanK(nums, k);
     return 0;
 }
