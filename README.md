@@ -95,7 +95,7 @@ Completed 20.SubArrayProductLessThanK and 21.LemonaceChange.
 Completed 22.AllNodesDistanceKBinaryTree
 
 32. July 2, 2018
-Completed leetcode 19 23.RemoveNthNodeFromEndOfList.
+Completed leetcode19 23.RemoveNthNodeFromEndOfList.
 
 33. July 3, 2018
 
@@ -114,6 +114,23 @@ Completed leetcode 19 23.RemoveNthNodeFromEndOfList.
 40. July 10, 2018
 
 41. July 11, 2018
+
+42. July 12, 2018
+
+43. July 13, 2018
+
+44. July 14, 2018
+
+45. July 15, 2018
+Complete leetcode867. A little hacky solution, but accepted by leetcode. 
+
+46. July 16, 2018
+Completed leetcode 868 Binary gap.
+
+47. July 17, 2018
+Completed leetcode869 Reordered Power of 2
+
+48. July 18, 2018
 
 
 
