@@ -122,11 +122,15 @@ Completed leetcode19 23.RemoveNthNodeFromEndOfList.
 44. July 14, 2018
 
 45. July 15, 2018
+Complete leetcode867. A little hacky solution, but accepted by leetcode. 
 
 46. July 16, 2018
 Completed leetcode 868 Binary gap.
 
 47. July 17, 2018
+Completed leetcode869 Reordered Power of 2
+
+48. July 18, 2018
 
 
 
