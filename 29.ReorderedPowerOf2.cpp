@@ -36,7 +36,7 @@ Note:
 */
 
 #include <iostream>
-#include <multiset>
+#include <set>
 
 using namespace std;
 
