@@ -131,7 +131,23 @@ Completed leetcode 868 Binary gap.
 Completed leetcode869 Reordered Power of 2
 
 48. July 18, 2018
+Leetcode learn. Solved Validate BST.
 
+49. July 19, 2018
+Leetcode learn. BSTIterator.
 
+50. July 20, 2018
+
+51. July 21, 2018
+Leetcode contest. Leaf-Similar trees.
+
+52. July 22, 2018
+
+53. July 23, 2018
+Leetcode 874.Walking Robot Simulation
+
+54. July 24, 2018
+
+55. July 25, 2018
 
 
