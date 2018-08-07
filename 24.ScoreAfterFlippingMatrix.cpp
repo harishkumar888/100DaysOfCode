@@ -10,7 +10,6 @@ After making any number of moves, every row of this matrix is interpreted as a b
 
 Return the highest possible score.
 
-
 Example 1:
 
 Input: [[0,0,1,1],[1,0,1,0],[1,1,0,0]]

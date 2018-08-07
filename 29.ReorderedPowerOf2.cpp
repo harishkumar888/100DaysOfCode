@@ -36,7 +36,8 @@ Note:
 */
 
 #include <iostream>
-#include <multiset>
+#include <set>
+#include "prettyprint.hpp"
 
 using namespace std;
 
@@ -58,6 +59,7 @@ bool reorderedPowerOf2(int N) {
         if(N_set == powerOf2)
             return true;
     }
+
     return false;
 }
 

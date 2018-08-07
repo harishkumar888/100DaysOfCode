@@ -131,7 +131,55 @@ Completed leetcode 868 Binary gap.
 Completed leetcode869 Reordered Power of 2
 
 48. July 18, 2018
+Leetcode learn. Solved Validate BST.
 
+49. July 19, 2018
+Leetcode learn. BSTIterator.
 
+50. July 20, 2018
+
+51. July 21, 2018
+Leetcode contest. Leaf-Similar trees.
+
+52. July 22, 2018
+
+53. July 23, 2018
+Leetcode 874.Walking Robot Simulation
+
+54. July 24, 2018
+
+55. July 25, 2018
+
+56. July 26, 2018
+Finish up smallest subtree with deepest nodes (leetcode 866)
+
+57. July 27, 2018
+Finish up score after flipping matrix (leetcode 861)
+
+58. July 28, 2018
+Tried alternate approach from scratch to leetcode 861.
+
+59. July 29, 2018
+Middle of linked list - Leetcode 876. 
+
+60. July 30, 2018
+
+61. July 31, 2018
+
+62. Aug 1, 2018
+Score of Parenthesis. leetcode 856
+
+63. Aug 2, 2018
+
+64. Aug 3, 2018
+
+65. Aug 4, 2018
+
+66. Aug 5, 2018
+
+67. Aug 6, 2018
+Projection Area of 3D Shapes. Leetcode 887
+
+68. Aug 7, 2018
 
 
