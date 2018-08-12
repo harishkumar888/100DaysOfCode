@@ -182,4 +182,12 @@ Projection Area of 3D Shapes. Leetcode 887
 
 68. Aug 7, 2018
 
+69. Aug 8, 2018
+
+70. Aug 9, 2018
+
+71. Aug 10, 2018
+
+72. Aug 12, 2018
+Leetcode 888. Uncommon Words from Two Sentences
 
