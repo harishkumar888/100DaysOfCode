@@ -29,6 +29,7 @@ A and B both contain only spaces and lowercase letters.
 #include <iostream>
 #include <unordered_map>
 #include <string>
+#include <sstream>
 #include <vector>
 
 using namespace std;
@@ -47,7 +48,7 @@ void get_word_count(string& A, unordered_map<string, int>& word_count){
     }
 }
 
-vector<string> uncommonFromSentences(string A, string B) {
+vector<string> uncommonFromSentences_naive(string A, string B) {
     unordered_map<string, int> word_count;
     vector<string> res;
     get_word_count(A, word_count);
@@ -55,6 +56,19 @@ vector<string> uncommonFromSentences(string A, string B) {
     for(auto it=word_count.begin(); it!=word_count.end(); ++it){
         if(it->second == 1)
             res.push_back(it->first);
+    }
+    return res;
+}
+
+vector<string> uncommonFromSentences(string A, string B){
+    unordered_map<string, int>word_count;
+    vector<string> res;
+    istringstream iss(A + " " + B);
+    while(iss>>A)
+        word_count[A]++;
+    for(auto word: word_count){
+        if(word.second == 1)
+            res.push_back(word.first);
     }
     return res;
 }
