@@ -30,13 +30,14 @@ sum(piles) is odd.
 
 */
 
+#include <algorithm>
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 // incorrect answer. Need to use DP
-bool stoneGame(vector<int>& piles) {
+bool stoneGame_naive(vector<int>& piles) {
     int alex=0, lee=0, n=piles.size();
     for(int i=0; i<n; ++i){
         if(i==0 || i%2==0){
@@ -61,6 +62,15 @@ bool stoneGame(vector<int>& piles) {
         }
     }
     return alex > lee;
+}
+
+// Dynamic programming
+bool stoneGame(vector<int>& p) {
+    vector<int> dp = p;
+    for (int d = 1; d < p.size(); d++)
+        for (int i = 0; i < p.size() - d; i++)
+            dp[i] = max(p[i] - dp[i + 1], p[i + d] - dp[i]);
+    return dp[0] > 0;
 }
 
 int main(){
