@@ -194,3 +194,8 @@ Leetcode 884. Uncommon Words from Two Sentences
 73. Aug 19, 2018
 Leetcode 888, Fair Candy swap
 
+74. Aug 20, 2018
+Leetcode 890, Find and Replace Pattern
+
+75. Aug 21, 2018
+
