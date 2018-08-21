@@ -189,5 +189,8 @@ Projection Area of 3D Shapes. Leetcode 887
 71. Aug 10, 2018
 
 72. Aug 12, 2018
-Leetcode 888. Uncommon Words from Two Sentences
+Leetcode 884. Uncommon Words from Two Sentences
+
+73. Aug 19, 2018
+Leetcode 888, Fair Candy swap
 
