@@ -199,3 +199,5 @@ Leetcode 890, Find and Replace Pattern
 
 75. Aug 21, 2018
 
+76. Aug 22, 2018
+Leetcode 889. Construct Binary Tree from Preorder and Postorder Traversal
