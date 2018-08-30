@@ -17,6 +17,10 @@ Note:
 pre[] and post[] are both permutations of 1, 2, ..., pre.length.
 It is guaranteed an answer exists. If there exists multiple answers, you can return any of them.
 
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/discuss/161372/Logical-Thinking-with-Code
+
+
+
 */
 
 #include <iostream>
@@ -52,13 +56,37 @@ TreeNode* recursive_helper(vector<int>& pre, vector<int>& post, int postStart, i
 }
 
 TreeNode* constructFromPrePost(vector<int>&pre, vector<int>& post) {
-    
+    preStart=0;
     return recursive_helper(pre, post, 0, post.size());
+}
+
+TreeNode* constructFromPrePost_alt(vector<int>& pre, vector<int>& post){
+    /*
+    Preorder generate TreeNodes, push them to stack and postorder pop them out.
+
+    Loop on pre array and construct node one by one.
+    stack save the current path of tree.
+    node = new TreeNode(pre[i]), if not left child, add node to the left. otherwise add it to the right.
+    If we meet a same value in the pre and post, it means we complete the construction for current  subtree. We pop it from stack.
+    */
+    vector<TreeNode*> s;
+    s.push_back(new TreeNode(pre[0]));
+    for(int i=1, j=0; i<pre.size(); ++i){
+        TreeNode* node = new TreeNode(pre[i]);
+        while(s.back()->val == post[j])
+            s.pop_back(), j++;
+        if(s.back()->left == nullptr)
+            s.back()->left = node;
+        else
+            s.back()->right = node;
+        s.push_back(node);
+    }
+    return s[0];
 }
 
 int main(){
     vector<int> pre = {1,2,4,5,3,6,7};
     vector<int> post = {4,5,2,6,7,3,1};
-    TreeNode* res = constructFromPrePost(pre, post);
+    TreeNode* res = constructFromPrePost_alt(pre, post);
     return 0;
 }
