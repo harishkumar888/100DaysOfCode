@@ -61,6 +61,14 @@ TreeNode* constructFromPrePost(vector<int>&pre, vector<int>& post) {
 }
 
 TreeNode* constructFromPrePost_alt(vector<int>& pre, vector<int>& post){
+    /*
+    Preorder generate TreeNodes, push them to stack and postorder pop them out.
+
+    Loop on pre array and construct node one by one.
+    stack save the current path of tree.
+    node = new TreeNode(pre[i]), if not left child, add node to the left. otherwise add it to the right.
+    If we meet a same value in the pre and post, it means we complete the construction for current  subtree. We pop it from stack.
+    */
     vector<TreeNode*> s;
     s.push_back(new TreeNode(pre[0]));
     for(int i=1, j=0; i<pre.size(); ++i){

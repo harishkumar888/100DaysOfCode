@@ -201,3 +201,6 @@ Leetcode 890, Find and Replace Pattern
 
 76. Aug 22, 2018
 Leetcode 889. Construct Binary Tree from Preorder and Postorder Traversal
+
+77. Aug 29, 2018
+Leetcode 893. Groups of Special-Equivalent Strings
