@@ -204,3 +204,8 @@ Leetcode 889. Construct Binary Tree from Preorder and Postorder Traversal
 
 77. Aug 29, 2018
 Leetcode 893. Groups of Special-Equivalent Strings
+
+78. Sept 1, 2018
+Leetcode 896. Monotonic array.
+
+79. Sept 2, 2018
