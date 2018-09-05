@@ -212,3 +212,7 @@ Leetcode 896. Monotonic array.
 Leetcode 897 Increasing Order Search Tree.
 
 80. Sept 4, 2018
+Leetcode 892. Surface area of 3D Shapes.
+
+81. Sept 5, 2018
+
