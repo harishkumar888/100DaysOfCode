@@ -216,3 +216,6 @@ Leetcode 892. Surface area of 3D Shapes.
 
 81. Sept 5, 2018
 Leetcode 885. Spiral Matrix III
+
+82. Sept 17, 2018
+Leetcode 905. Sort Array by Parity
