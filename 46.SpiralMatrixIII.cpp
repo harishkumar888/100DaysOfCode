@@ -41,7 +41,6 @@ using namespace std;
 vector<vector<int>> spiralMatrixIII(int R, int C, int r, int c) {
     vector<vector<int>> res = {{r,c}};
     vector<vector<int>> dirs{{0,1},{1,0},{0,-1},{-1,0}};
-    int x=0, y=1, temp=0;
     int index = 0;
 
     for(int n=0; res.size()<R*C; n++){
