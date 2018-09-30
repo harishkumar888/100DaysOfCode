@@ -226,4 +226,7 @@ Leetcode 908. Smallest Range I
 84. Sept 26, 2018
 Leetcode 911. Online election
 
-85. Sept 
+85. Sept 30, 2018
+Leetcode 914. X of a kind in a deck of cards.
+
+86. Oct 
