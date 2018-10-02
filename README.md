@@ -229,4 +229,5 @@ Leetcode 911. Online election
 85. Sept 30, 2018
 Leetcode 914. X of a kind in a deck of cards.
 
-86. Oct 
+86. Oct 1, 2018
+Leetcode 916. Word subsets
