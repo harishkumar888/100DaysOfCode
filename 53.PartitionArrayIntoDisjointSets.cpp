@@ -33,16 +33,19 @@ It is guaranteed there is at least one way to partition A as described.
 using namespace std;
 
 int partitionDisjoint(vector<int>& A) {
-    int n=A.size(), localMax=A[0], partitionIdx=0, max_val=localMax;
+    int n = A.size();
+    int leftMax = A[0];
+    int realMax = A[0];
+    int leftIdx = 0;
     for(int i=1; i<n; ++i){
-        if(A[i]<localMax){
-            localMax = max_val;
-            partitionIdx = i;
+        if(A[i]<leftMax){
+            leftIdx = i;
+            leftMax = realMax;
         }else{
-            max_val = max(max_val, A[i]);
+            realMax = max(realMax, A[i]);
         }
     }
-    return partitionIdx+1;
+    return leftIdx+1;
 }
 
 int main(){
