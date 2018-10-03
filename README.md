@@ -231,3 +231,6 @@ Leetcode 914. X of a kind in a deck of cards.
 
 86. Oct 1, 2018
 Leetcode 916. Word subsets
+
+87. Oct 2, 2018
+Leetcode 915. Partition array into disjoint sets.
