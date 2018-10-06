@@ -235,3 +235,7 @@ Leetcode 916. Word subsets
 87. Oct 2, 2018
 Leetcode 915. Partition array into disjoint sets.
 
+88. Oct 6, 2018
+Leetcode 914. Online stock span
+
+89. Oct 7, 2018
