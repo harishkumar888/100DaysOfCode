@@ -242,3 +242,5 @@ Leetcode 914. Online stock span
 Leetcode 917. Reverse only letters
 
 90. Oct 8, 2018
+Leetcode 919. Complete binary tree inserter
+
