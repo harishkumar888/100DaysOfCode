@@ -251,3 +251,6 @@ Tried to solve Leetcode 918 unsuccessfully.
 Finished Leetcode 918, 852. Maximum sum circular subarray & Peak index in a mountain array
 
 93. Oct 11, 2018
+Attempted Leetcode 33 Search in Rotated Sorted Array unsuccessfully.
+
+94. Oct
