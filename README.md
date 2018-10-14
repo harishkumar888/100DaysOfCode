@@ -251,4 +251,7 @@ Tried to solve Leetcode 918 unsuccessfully.
 Finished Leetcode 918, 852. Maximum sum circular subarray & Peak index in a mountain array
 
 93. Oct 11, 2018
+Attempted Leetcode 33 Search in Rotated Sorted Array unsuccessfully.
+
+94. Oct 13, 2018
 Participated in Leetcode contest. Finished 921. Minimum Add to Make Parenthesis Valid and 922. Sort Array By Parity II.
