@@ -255,3 +255,6 @@ Attempted Leetcode 33 Search in Rotated Sorted Array unsuccessfully.
 
 94. Oct 13, 2018
 Participated in Leetcode contest. Finished 921. Minimum Add to Make Parenthesis Valid and 922. Sort Array By Parity II.
+
+95. Oct 14, 2018
+Completed Leetcode 33 Search in Rotated Sorted Array.
