@@ -258,3 +258,6 @@ Participated in Leetcode contest. Finished 921. Minimum Add to Make Parenthesis 
 
 95. Oct 14, 2018
 Completed Leetcode 33 Search in Rotated Sorted Array.
+
+96. Oct 15, 2018
+Attempted Leetcode 923. 3Sum With Multiplicity unsuccessfully.

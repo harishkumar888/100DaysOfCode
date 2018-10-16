@@ -39,7 +39,7 @@ S only consists of '(' and ')' characters.
 
 using namespace std;
 
-int minAddToMakeValid(string S) {
+int minAddToMakeValid_naive(string S) {
     int res=0;
     stack<char> stck;
     for(auto elem: S){
@@ -62,6 +62,16 @@ int minAddToMakeValid(string S) {
     }
     
     return abs(res);
+}
+
+int minAddToMakeValid(string S) {
+    int c = 0, ans = 0;
+    for (auto e : S) {
+        if (e == '(') c++;      // keep track of left parens on "stack"
+        else if (c == 0) ans++; // if missing left paren when needed, ++
+        else c--;               // reduce left paren count when matched
+    }
+    return c + ans;             // add the unmatched left parens at the end
 }
 
 int main(){
