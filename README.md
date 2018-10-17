@@ -261,3 +261,6 @@ Completed Leetcode 33 Search in Rotated Sorted Array.
 
 96. Oct 15, 2018
 Attempted Leetcode 923. 3Sum With Multiplicity unsuccessfully.
+
+97. Oct 16, 2018
+Finished leetcode 923. 3sum with Multiplicity.
