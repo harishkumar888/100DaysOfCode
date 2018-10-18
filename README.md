@@ -264,3 +264,6 @@ Attempted Leetcode 923. 3Sum With Multiplicity unsuccessfully.
 
 97. Oct 16, 2018
 Finished leetcode 923. 3sum with Multiplicity.
+
+98. Oct 17, 2018
+Finished Leetcode 15. 3Sum
