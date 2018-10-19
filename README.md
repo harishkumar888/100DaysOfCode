@@ -61,212 +61,215 @@ Solved leetcode 811.
 21. June 20, 2018
 Solved Operator overloading problem in HackerRank.
 
-21. June 21, 2018
+22. June 21, 2018
 Leetcode Longest common prefix. Peak index in a mountain array.
 
-22. June 22, 2018
+23. June 22, 2018
 Leetcode Compare two trees.
 
-23. June 23, 2018
+24. June 23, 2018
 Leetcode Maximum Subarray.
 
-24. June 24, 2018
+25. June 24, 2018
 Leetcode Buddy strings.
 
-25. June 25, 2018
+26. June 25, 2018
 Leetcode remove duplicates from linked list. Pluralsight course on C++ STL algorithms.
 
-26. June 26, 2018
+27. June 26, 2018
 Incomplete Leetcode Binary tree paths.
 
-27. June 27, 2018
+28. June 27, 2018
 Completed Binary tree paths. Pluralsight C++ STL algorithms.
 
-28. June 28, 2018
+29. June 28, 2018
 Completed Binary tree pruning leetcode problem.
 
-29. June 29, 2018
+30. June 29, 2018
 Completed 18.JewelAndStones, 19.SearchInsert leetcode problem. 
 
-30. June 30, 2018
+31. June 30, 2018
 Completed 20.SubArrayProductLessThanK and 21.LemonaceChange.
 
-31. July 1, 2018
+32. July 1, 2018
 Completed 22.AllNodesDistanceKBinaryTree
 
-32. July 2, 2018
+33. July 2, 2018
 Completed leetcode19 23.RemoveNthNodeFromEndOfList.
 
-33. July 3, 2018
+34. July 3, 2018
 
-34. July 4, 2018
+35. July 4, 2018
 
-35. July 5, 2018
+36. July 5, 2018
 
-36. July 6, 2018
+37. July 6, 2018
 
-37. July 7, 2018
+38. July 7, 2018
 
-38. July 8, 2018
+39. July 8, 2018
 
-39. July 9, 2018
+40. July 9, 2018
 
-40. July 10, 2018
+41. July 10, 2018
 
-41. July 11, 2018
+42. July 11, 2018
 
-42. July 12, 2018
+43. July 12, 2018
 
-43. July 13, 2018
+44. July 13, 2018
 
-44. July 14, 2018
+45. July 14, 2018
 
-45. July 15, 2018
+46. July 15, 2018
 Complete leetcode867. A little hacky solution, but accepted by leetcode. 
 
-46. July 16, 2018
+47. July 16, 2018
 Completed leetcode 868 Binary gap.
 
-47. July 17, 2018
+48. July 17, 2018
 Completed leetcode869 Reordered Power of 2
 
-48. July 18, 2018
+49. July 18, 2018
 Leetcode learn. Solved Validate BST.
 
-49. July 19, 2018
+50. July 19, 2018
 Leetcode learn. BSTIterator.
 
-50. July 20, 2018
+51. July 20, 2018
 
-51. July 21, 2018
+52. July 21, 2018
 Leetcode contest. Leaf-Similar trees.
 
-52. July 22, 2018
+53. July 22, 2018
 
-53. July 23, 2018
+54. July 23, 2018
 Leetcode 874.Walking Robot Simulation
 
-54. July 24, 2018
+55. July 24, 2018
 
-55. July 25, 2018
+56. July 25, 2018
 
-56. July 26, 2018
+57. July 26, 2018
 Finish up smallest subtree with deepest nodes (leetcode 866)
 
-57. July 27, 2018
+58. July 27, 2018
 Finish up score after flipping matrix (leetcode 861)
 
-58. July 28, 2018
+59. July 28, 2018
 Tried alternate approach from scratch to leetcode 861.
 
-59. July 29, 2018
+60. July 29, 2018
 Middle of linked list - Leetcode 876. 
 
-60. July 30, 2018
+61. July 30, 2018
 
-61. July 31, 2018
+62. July 31, 2018
 
-62. Aug 1, 2018
+63. Aug 1, 2018
 Score of Parenthesis. leetcode 856
 
-63. Aug 2, 2018
+64. Aug 2, 2018
 
-64. Aug 3, 2018
+65. Aug 3, 2018
 
-65. Aug 4, 2018
+66. Aug 4, 2018
 
-66. Aug 5, 2018
+67. Aug 5, 2018
 
-67. Aug 6, 2018
+68. Aug 6, 2018
 Projection Area of 3D Shapes. Leetcode 887
 
-68. Aug 7, 2018
+69. Aug 7, 2018
 
-69. Aug 8, 2018
+70. Aug 8, 2018
 
-70. Aug 9, 2018
+71. Aug 9, 2018
 
-71. Aug 10, 2018
+72. Aug 10, 2018
 
-72. Aug 12, 2018
+73. Aug 12, 2018
 Leetcode 884. Uncommon Words from Two Sentences
 
-73. Aug 19, 2018
+74. Aug 19, 2018
 Leetcode 888, Fair Candy swap
 
-74. Aug 20, 2018
+75. Aug 20, 2018
 Leetcode 890, Find and Replace Pattern
 
-75. Aug 21, 2018
+76. Aug 21, 2018
 
-76. Aug 22, 2018
+77. Aug 22, 2018
 Leetcode 889. Construct Binary Tree from Preorder and Postorder Traversal
 
-77. Aug 29, 2018
+78. Aug 29, 2018
 Leetcode 893. Groups of Special-Equivalent Strings
 
-78. Sept 1, 2018
+79. Sept 1, 2018
 Leetcode 896. Monotonic array.
 
-79. Sept 2, 2018
+80. Sept 2, 2018
 Leetcode 897 Increasing Order Search Tree.
 
-80. Sept 4, 2018
+81. Sept 4, 2018
 Leetcode 892. Surface area of 3D Shapes.
 
-81. Sept 5, 2018
+82. Sept 5, 2018
 Leetcode 885. Spiral Matrix III
 
-82. Sept 17, 2018
+83. Sept 17, 2018
 Leetcode 905. Sort Array by Parity
 
-83. Sept 23, 2018
+84. Sept 23, 2018
 Leetcode 908. Smallest Range I
 
-84. Sept 26, 2018
+85. Sept 26, 2018
 Leetcode 911. Online election
 
-85. Sept 30, 2018
+86. Sept 30, 2018
 Leetcode 914. X of a kind in a deck of cards.
 
-86. Oct 1, 2018
+87. Oct 1, 2018
 Leetcode 916. Word subsets
 
-87. Oct 2, 2018
+88. Oct 2, 2018
 Leetcode 915. Partition array into disjoint sets.
 
-88. Oct 6, 2018
+89. Oct 6, 2018
 Leetcode 914. Online stock span
 
-89. Oct 7, 2018
+90. Oct 7, 2018
 Leetcode 917. Reverse only letters
 
-90. Oct 8, 2018
+91. Oct 8, 2018
 Leetcode 919. Complete binary tree inserter
 
-91. Oct 9, 2018
+92. Oct 9, 2018
 Tried to solve Leetcode 918 unsuccessfully.
 
-92. Oct 10, 2018
+93. Oct 10, 2018
 Finished Leetcode 918, 852. Maximum sum circular subarray & Peak index in a mountain array
 
-93. Oct 11, 2018
+94. Oct 11, 2018
 Attempted Leetcode 33 Search in Rotated Sorted Array unsuccessfully.
 
-94. Oct 13, 2018
+95. Oct 13, 2018
 Participated in Leetcode contest. Finished 921. Minimum Add to Make Parenthesis Valid and 922. Sort Array By Parity II.
 
-95. Oct 14, 2018
+96. Oct 14, 2018
 Completed Leetcode 33 Search in Rotated Sorted Array.
 
-96. Oct 15, 2018
+97. Oct 15, 2018
 Attempted Leetcode 923. 3Sum With Multiplicity unsuccessfully.
 
-97. Oct 16, 2018
+98. Oct 16, 2018
 Finished leetcode 923. 3sum with Multiplicity.
 
-98. Oct 17, 2018
+99. Oct 17, 2018
 Finished Leetcode 15. 3Sum
 
-99. Oct 18, 2018
+100. Oct 18, 2018
 Finished Leetcode 3. Longest Substring without Repeating Characters.
+
+101. Oct 19, 2018
+Finished Leetcode 8. Implement String to Integer.
