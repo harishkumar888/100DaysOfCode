@@ -267,3 +267,6 @@ Finished leetcode 923. 3sum with Multiplicity.
 
 98. Oct 17, 2018
 Finished Leetcode 15. 3Sum
+
+99. Oct 18, 2018
+Finished Leetcode 3. Longest Substring without Repeating Characters.
