@@ -270,3 +270,6 @@ Finished Leetcode 15. 3Sum
 
 100. Oct 18, 2018
 Finished Leetcode 3. Longest Substring without Repeating Characters.
+
+101. Oct 19, 2018
+Finished Leetcode 8. Implement String to Integer.
