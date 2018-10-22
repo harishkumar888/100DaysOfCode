@@ -273,3 +273,6 @@ Finished Leetcode 3. Longest Substring without Repeating Characters.
 
 101. Oct 19, 2018
 Finished Leetcode 8. Implement String to Integer.
+
+102. Oct 21, 2018
+Finished Leetcode 925. Long Pressed Name.
