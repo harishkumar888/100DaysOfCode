@@ -276,3 +276,7 @@ Finished Leetcode 8. Implement String to Integer.
 
 102. Oct 21, 2018
 Finished Leetcode 925. Long Pressed Name.
+
+103. Oct 22, 2018
+Finished Leetcode 926. Flip String To Monotone Increasing
+
