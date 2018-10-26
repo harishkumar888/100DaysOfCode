@@ -288,3 +288,6 @@ Finished Leetcode 11. Container with most water
 
 106. Oct 25, 2018
 Attempted Leetcode 12. Integer to Roman
+
+107. Oct 26, 2018
+Finished Leetcode 13. Roman to Integer and 20. Valid Parenthesis
