@@ -45,12 +45,13 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 */
 
 #include <iostream>
+#include <map>
 #include <string>
 #include <vector>
 
 using namespace std;
 
-string intToRoman(int num){
+string intToRoman_alt(int num){
     vector<string> M = {"", "M", "MM", "MMM"};
     vector<string> C = {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "CM"};
     vector<string> X = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
@@ -59,7 +60,39 @@ string intToRoman(int num){
     return M[num/1000] + C[(num%1000)/100] + X[(num%100)/10] + I[num%10];
 }
 
+
+string intToRoman(int num) {
+    map<int, string> m;
+    m[1]   = "I";
+    m[4]   = "IV";
+    m[5]   = "V";
+    m[9]   = "IX";
+    m[10]  = "X";
+    m[40]  = "XL";
+    m[50]  = "L";
+    m[90]  = "XC";
+    m[100] = "C";
+    m[400] = "CD";
+    m[500] = "D";
+    m[900] = "CM";
+    m[1000]= "M";
+    
+    string res;
+    while(num!=0){
+        map<int, string>::iterator it = m.lower_bound(num);
+        it = (it == m.begin() || it->first == num) ? it : prev(it);
+        res += it->second;
+        num -= it->first;
+    }
+    return res;
+}
+
 int main(){
-    cout << intToRoman(2);
+    cout << intToRoman(4) << endl;
+    cout << intToRoman(3) << endl;
+    cout << intToRoman(9) << endl;
+    cout << intToRoman(58) << endl;
+    cout << intToRoman(1994) << endl;
+    cout << intToRoman(2554) << endl;
     return 0;
 }
