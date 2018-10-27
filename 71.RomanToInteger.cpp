@@ -33,6 +33,10 @@ int romanToInt(string s) {
 }
 
 int main(){
+    cout << romanToInt("III") << endl;
+    cout << romanToInt("IV") << endl;
+    cout << romanToInt("IX") << endl;
+    cout << romanToInt("LVIII") << endl;
     cout << romanToInt("MCMXCIX") << endl;
     return 0;
 }
