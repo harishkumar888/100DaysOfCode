@@ -50,7 +50,7 @@ bool isClosing(char c){
     return (c==')' || c==']' || c=='}');    
 }
 
-bool isValid(string s) {
+bool isValid_naive(string s) {
     if(s == "") return true;
     stack<char> sc;
     for(auto c:s){
@@ -73,7 +73,27 @@ bool isValid(string s) {
     return sc.empty();
 }
 
+bool isValid(string s) {
+    stack<char> paren;
+    for (char& c : s) {
+        switch (c) {
+            case '(': 
+            case '{': 
+            case '[': paren.push(c); break;
+            case ')': if (paren.empty() || paren.top()!='(') return false; else paren.pop(); break;
+            case '}': if (paren.empty() || paren.top()!='{') return false; else paren.pop(); break;
+            case ']': if (paren.empty() || paren.top()!='[') return false; else paren.pop(); break;
+            default: ; // pass
+        }
+    }
+    return paren.empty() ;
+}
+
 int main(){
-    cout << boolalpha << isValid("()[]");
+    cout << boolalpha << isValid("()[]") << endl;
+    cout << boolalpha << isValid("()[]{}") << endl;
+    cout << boolalpha << isValid("(]") << endl;
+    cout << boolalpha << isValid("([)]") << endl;
+    cout << boolalpha << isValid("{[]}") << endl;
     return 0;
 }
