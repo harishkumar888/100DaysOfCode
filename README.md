@@ -291,3 +291,8 @@ Attempted Leetcode 12. Integer to Roman
 
 107. Oct 26, 2018
 Finished Leetcode 13. Roman to Integer and 20. Valid Parenthesis
+
+108. Oct 27, 2018
+Finished Leetcode 929. Unique email addresses.
+
+109. Oct 28, 2018
