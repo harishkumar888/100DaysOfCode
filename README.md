@@ -297,3 +297,6 @@ Finished Leetcode 929. Unique email addresses.
 
 109. Oct 28, 2018
 Attempted Leetcode 931. Minimum Falling Path Sum.
+
+110. Oct 29, 2018
+Attempted Leetcode 932. Beautiful Array
