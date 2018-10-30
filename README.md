@@ -300,3 +300,6 @@ Attempted Leetcode 931. Minimum Falling Path Sum.
 
 110. Oct 29, 2018
 Attempted Leetcode 932. Beautiful Array
+
+111. Oct 30, 2018
+Attempted Leetcode 22 Generate Parentheses.
