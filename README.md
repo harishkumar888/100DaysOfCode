@@ -307,3 +307,5 @@ Attempted Leetcode 22 Generate Parentheses.
 112. Oct 31, 2018
 Attempted Leetcode 24. Swap Nodes in Pairs.
 
+113. Nov 1, 2018
+Attempted Leetcode 31. Next Permutation.
