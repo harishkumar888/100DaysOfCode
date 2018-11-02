@@ -309,3 +309,6 @@ Attempted Leetcode 24. Swap Nodes in Pairs.
 
 113. Nov 1, 2018
 Attempted Leetcode 31. Next Permutation.
+
+114. Nov 2, 2018
+Attempted Leetcode 17. Letter combinations of a phone number.
