@@ -315,3 +315,6 @@ Attempted Leetcode 17. Letter combinations of a phone number.
 
 115. Nov 4, 2018
 Finished Leetcode 933. Number of recent calls.
+
+116. Nov 5, 2018
+Unsuccessfully attempted 934. Shortest Bridge.
