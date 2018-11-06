@@ -318,3 +318,6 @@ Finished Leetcode 933. Number of recent calls.
 
 116. Nov 5, 2018
 Unsuccessfully attempted 934. Shortest Bridge.
+
+117. Nov 6, 2018
+Finished 34. Find first and Last position of element in sorted array
