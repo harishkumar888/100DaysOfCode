@@ -330,3 +330,6 @@ Finished 36. Valid Sudoku
 
 120. Nov 30, 2018
 Finished 938. Range sum of BST
+
+121. Dec 10, 2018
+Finished 939. Minimum Area Rectangle.
